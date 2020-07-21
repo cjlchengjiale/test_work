@@ -142,5 +142,5 @@ void test1()
 }
 int main()
 {
-    test();
+    test1();
 }
